@@ -1,0 +1,15 @@
+number1=2
+number2=3
+sum=number1+number2
+print("sum",sum)
+sum=20
+print(type(sum))
+string="revature"
+print(type(string))
+print("sum:",number1+number2)
+print("subtract:",number1-number2)
+print("multiplicatiion:",number1*number2)
+print("division:",number1/number2)
+print("modulus:",number1%number2)
+print("exponent:",number1**number2)
+print("Hello","world!",sep="-",end=".")
